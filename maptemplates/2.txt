@@ -1,0 +1,16 @@
+[
+65,
+[(30, 0), (30, 140)],
+[
+[(65 * multiplier - abs(65 * multiplier - 2 * t), int(32.5 * multiplier)) for t in range(65 * multiplier)],
+[(abs(2 * t - 65 * multiplier), int(42.5 * multiplier)) for t in range(65 * multiplier)],
+[(65 * multiplier - abs(65 * multiplier - 2 * t), int(52.5 * multiplier)) for t in range(65 * multiplier)],
+[(abs(2 * t - 65 * multiplier), int(62.5 * multiplier)) for t in range(65 * multiplier)],
+[(65 * multiplier - abs(65 * multiplier - 2 * t), int(72.5 * multiplier)) for t in range(65 * multiplier)],
+[(abs(2 * t - 65 * multiplier), int(82.5 * multiplier)) for t in range(65 * multiplier)],
+[(65 * multiplier - abs(65 * multiplier - 2 * t), int(92.5 * multiplier)) for t in range(65 * multiplier)],
+[(abs(2 * t - 65 * multiplier), int(102.5 * multiplier)) for t in range(65 * multiplier)],
+[(65 * multiplier - abs(65 * multiplier - 2 * t), int(112.5 * multiplier)) for t in range(65 * multiplier)],
+[(abs(2 * t - 65 * multiplier), int(122.5 * multiplier)) for t in range(65 * multiplier)],
+]
+]

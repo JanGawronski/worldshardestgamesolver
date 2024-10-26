@@ -1,0 +1,40 @@
+[
+40,
+[(7.5, 67.5), (67.5, 7.5)],
+[
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*35 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*35 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*35j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*35j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-35 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-35 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-35j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-35j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*30 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*30 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*30j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*30j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-30 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-30 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-30j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-30j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*25 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*25 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*25j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*25j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-25 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-25 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-25j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-25j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*20 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*20 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*20j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*20j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-20 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-20 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-20j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-20j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*15 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*15 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*15j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*15j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-15 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-15 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-15j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-15j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*10 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*10 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*10j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*10j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-10 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-10 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-10j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-10j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*5 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*5 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*5j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*5j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-5 + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-5 + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+[(int(((2.718281828459045**(i/(25.6*multiplier) * 1j)*-5j + 67.5) * multiplier).real), int(((-2.718281828459045**(i/(25.6*multiplier) * 1j)*-5j + 67.5j) * multiplier).imag)) for i in range(40 * multiplier)],
+]
+]

@@ -1,0 +1,9 @@
+[
+75,
+[(35, 15), (5, 140)],
+[[(int(12.5 * multiplier), 115 * multiplier - abs(75 * multiplier - 2 * t)) for t in range(75 * multiplier)],
+[(int(22.5 * multiplier), 40 * multiplier + abs(2 * t - 75 * multiplier)) for t in range(75 * multiplier)],
+[(int(32.5 * multiplier), 115 * multiplier - abs(75 * multiplier - 2 * t)) for t in range(75 * multiplier)],
+[(int(42.5 * multiplier), 40 * multiplier + abs(2 * t - 75 * multiplier)) for t in range(75 * multiplier)],
+[(int(52.5 * multiplier), 115 * multiplier - abs(75 * multiplier - 2 * t)) for t in range(75 * multiplier)]]
+]

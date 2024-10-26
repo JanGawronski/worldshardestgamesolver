@@ -1,0 +1,15 @@
+[
+50,
+[(2.5, 2.5), (42.5, 102.5)],
+[
+#[(int(((2.718281828459045**(i/(16*multiplier) * 1j)*70 + 55) * multiplier).real), int(((-2.718281828459045**(i/(16*multiplier) * 1j)*70 + 80j) * multiplier).imag)) for i in range(50 * multiplier)],
+[(int(((2.718281828459045**(i/(16*multiplier) * 1j)*50 + 55) * multiplier).real), int(((-2.718281828459045**(i/(16*multiplier) * 1j)*50 + 80j) * multiplier).imag)) for i in range(50 * multiplier)],
+[(int(((2.718281828459045**(i/(16*multiplier) * 1j)*30 + 55) * multiplier).real), int(((-2.718281828459045**(i/(16*multiplier) * 1j)*30 + 80j) * multiplier).imag)) for i in range(50 * multiplier)],
+[(int(((2.718281828459045**(i/(16*multiplier) * 1j)*10 + 55) * multiplier).real), int(((2.718281828459045**(i/(16*multiplier) * 1j)*10 + 80j) * multiplier).imag)) for i in range(50 * multiplier)],
+
+[(int(((2.718281828459045**(i/(16*multiplier) * 1j)*-70 + 55) * multiplier).real), int(((-2.718281828459045**(i/(16*multiplier) * 1j)*-70 + 80j) * multiplier).imag)) for i in range(50 * multiplier)],
+[(int(((2.718281828459045**(i/(16*multiplier) * 1j)*-50 + 55) * multiplier).real), int(((-2.718281828459045**(i/(16*multiplier) * 1j)*-50 + 80j) * multiplier).imag)) for i in range(50 * multiplier)],
+[(int(((2.718281828459045**(i/(16*multiplier) * 1j)*-30 + 55) * multiplier).real), int(((-2.718281828459045**(i/(16*multiplier) * 1j)*-30 + 80j) * multiplier).imag)) for i in range(50 * multiplier)],
+[(int(((2.718281828459045**(i/(16*multiplier) * 1j)*-10 + 55) * multiplier).real), int(((2.718281828459045**(i/(16*multiplier) * 1j)*-10 + 80j) * multiplier).imag)) for i in range(50 * multiplier)],
+]
+]
